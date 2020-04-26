@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1AE58568-1D09-4A48-70AF-68F5334178DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EndGame.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/GameMaster.cs" />
+      <File FileName="Assets/Scripts/CheckPoint.cs" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="7" Column="5" />
+      <File FileName="Assets/playAgain.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e6f9e338-fd82-46c6-912d-9d96d2edf1ef" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
