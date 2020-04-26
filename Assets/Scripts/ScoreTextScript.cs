@@ -20,4 +20,10 @@ public class ScoreTextScript : MonoBehaviour
     {
         text.text = coinAmount.ToString();
     }
+
+    public static void Reset()
+    {
+        coinAmount = 0;
+    }
+
 }

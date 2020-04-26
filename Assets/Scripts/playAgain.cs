@@ -5,8 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class playAgain : MonoBehaviour
 {
+
 	public void PlayAgain()
 	{
-		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+			ScoreTextScript.Reset();
+			SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
 	}
+
 }
