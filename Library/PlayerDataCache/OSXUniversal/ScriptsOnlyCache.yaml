@@ -13,7 +13,7 @@ ScriptsOnlyBuild:
     - PlayerMovement
     - PlayerPos
     - ScoreTextScript
-    - playagain
+    - playAgain
     AstarPathfindingProject.dll:
     - AstarPath
     - Pathfinding.AIDestinationSetter
@@ -23,6 +23,7 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -90,6 +91,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13778}
     - Class: 114
       Script: {instanceID: 13898}
+    - Class: 114
+      Script: {instanceID: 14352}
     - Class: 114
       Script: {instanceID: 14602}
     - Class: 114
@@ -1216,10 +1219,10 @@ ScriptsOnlyBuild:
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: playagain
+    className: playAgain
   platform: 2
   scenePathNames:
   - Assets/menu.unity
   - Assets/grid.unity
   - Assets/endScene.unity
-  playerPath: /Users/matthewzahar/Desktop/CS205/Game.app
+  playerPath: /Users/matthewzahar/Desktop/CS205/GameXcode.xcodeproj
